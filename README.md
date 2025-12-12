@@ -1,7 +1,9 @@
 # Projeto Biblioteca UniFecaf
 Este é o repositório do projeto Biblioteca UNIFECAF, um site one-page (uma única página) desenvolvido para apresentar informações sobre a biblioteca, seu acervo e unidades.
 
-# DescriçãoO site "Biblioteca" foi criado com o objetivo de ser um portal de fácil acesso e navegação, permitindo aos usuários conhecerem a instituição, explorarem uma amostra do acervo (Nossos Livros) e localizarem as unidades disponíveis. 
+# Descrição 
+Projeto "Biblioteca" foi criado com o objetivo de ser um portal de fácil acesso e navegação, permitindo aos usuários conhecerem a instituição, explorarem uma amostra do acervo (Nossos Livros) e localizarem as unidades disponíveis.
+
 O design é limpo, com uma paleta de cores institucional em tons de azul e verde.O layout é completamente Responsivo, garantindo uma excelente experiência de visualização em desktops, tablets e smartphones.
 Funcionalidades Navegação Fixa: Menu superior que acompanha a rolagem da página.
 Conteúdo Estruturado: Seções bem definidas (Sobre, Livros, Unidades, Contatos).
